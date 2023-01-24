@@ -3,4 +3,5 @@ contoh 1:
 - apel
 - mangga
 - jeruk
-
+- pisang
+- pepaya
