@@ -5,3 +5,8 @@ contoh 1:
 - jeruk
 - pisang
 - pepaya
+
+contoh 2:
+- wortel
+- tomat
+
