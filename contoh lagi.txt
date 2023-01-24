@@ -4,3 +4,7 @@ contoh 1:
 - mangga
 - jeruk
 
+contoh 2:
+- wortel
+- tomat
+
