@@ -1,4 +1,6 @@
 disini coba lagi
-
-baris kedua
+contoh 1:
+- apel
+- mangga
+- jeruk
 
